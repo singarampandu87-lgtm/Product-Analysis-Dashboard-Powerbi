@@ -27,7 +27,7 @@ The dashboard helps analyze sales performance, product categories, regional perf
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+<img width="1372" height="737" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/8aef0671-8c91-4af8-a27a-7a6ec0dd0bc6" />
 
 ---
 
